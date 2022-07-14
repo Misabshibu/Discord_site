@@ -333,6 +333,12 @@
 
 .foot_last{
     border-top: solid 2px #5865f2;
+    border-top: solid 2px #5865f2;
+    max-width: 1000px;
+    margin: auto;
+}
+.row{
+    justify-content: center;
 }
 .footer_up a{
     text-decoration: none;
